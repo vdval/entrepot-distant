@@ -1,5 +1,4 @@
 ## Bienvenue sur mon premier site web en markdown (au lieu d'html) ! Et oui, on peut. Le markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d'Aaron Swartz. Il a été créé dans le but d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
-
 ---
 layout: default
 ---
@@ -28,98 +27,98 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
-    return true;
-    }
-    ```
+  return true;
+}
+```
 
-    ```ruby
-    # Ruby code with syntax highlighting
-    GitHubPages::Dependencies.gems.each do |gem, version|
-      s.add_dependency(gem, "= #{version}")
-      end
-      ```
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-      #### Header 4
+#### Header 4
 
-      *   This is an unordered list following a header.
-      *   This is an unordered list following a header.
-      *   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-      ##### Header 5
+##### Header 5
 
-      1.  This is an ordered list following a header.
-      2.  This is an ordered list following a header.
-      3.  This is an ordered list following a header.
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
-      ###### Header 6
+###### Header 6
 
-      | head1        | head two          | three |
-      |:-------------|:------------------|:------|
-      | ok           | good swedish fish | nice  |
-      | out of stock | good and plenty   | nice  |
-      | ok           | good `oreos`      | hmm   |
-      | ok           | good `zoute` drop | yumm  |
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
-      ### There's a horizontal rule below this.
+### There's a horizontal rule below this.
 
-      * * *
+* * *
 
-      ### Here is an unordered list:
+### Here is an unordered list:
 
-      *   Item foo
-      *   Item bar
-      *   Item baz
-      *   Item zip
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-      ### And an ordered list:
+### And an ordered list:
 
-      1.  Item one
-      1.  Item two
-      1.  Item three
-      1.  Item four
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-      ### And a nested list:
+### And a nested list:
 
-      - level 1 item
-        - level 2 item
-	  - level 2 item
-	      - level 3 item
-	          - level 3 item
-		  - level 1 item
-		    - level 2 item
-		      - level 2 item
-		        - level 2 item
-			- level 1 item
-			  - level 2 item
-			    - level 2 item
-			    - level 1 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-			    ### Small image
+### Small image
 
-			    ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-			    ### Large image
+### Large image
 
-			    ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-			    ### Definition lists can be used with HTML syntax.
+### Definition lists can be used with HTML syntax.
 
-			    <dl>
-			    <dt>Name</dt>
-			    <dd>Godzilla</dd>
-			    <dt>Born</dt>
-			    <dd>1952</dd>
-			    <dt>Birthplace</dt>
-			    <dd>Japan</dd>
-			    <dt>Color</dt>
-			    <dd>Green</dd>
-			    </dl>
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-			    ```
-			    Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-			    ```
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-			    ```
-			    The final element.
-			    ```
+```
+The final element.
+```
