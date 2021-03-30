@@ -1,4 +1,4 @@
-## Bienvenue sur mon premier site web en markdown (au lieu d'html) ! Et oui, on peut. Le markdown un langage de balisage léger créé en 2004 par John Gruber avec l'aide d'Aaron Swartz1. Il a été créé dans le but d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
+## Bienvenue sur mon premier site web en markdown (au lieu d'html) ! Et oui, on peut. Le markdown un langage de balisage léger créé en 2004 par John Gruber avec l'aide d'Aaron Swartz. Il a été créé dans le but d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
 
 ---
 layout: default
