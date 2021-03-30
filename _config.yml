@@ -3,3 +3,4 @@ gem "github-pages", group: :jekyll_plugins
 title: Site avec thème hacker
 description: premier site markdown avec un thème hacker
 show_downloads: "true"
+theme: jekyll-theme-hacker
